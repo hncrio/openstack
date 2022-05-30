@@ -1,3 +1,10 @@
 ## Hyperconverged Openstack Deployment 
 
-- [] Deploy undercloud using qemu on MacOS
+### - [ ] Boot undercloud vm using qemu on MacOS via shell
+- [ ] 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
